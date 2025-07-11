@@ -33,7 +33,15 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
+
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Permettre à l'application d'accéder à vos photos"
+        }
       ]
+
     ],
     "experiments": {
       "typedRoutes": true
